@@ -1,4 +1,4 @@
-# Flying_Bird
+# Flying Bird
 Final Project for ME 557 (Computer Graphics and Geometric Modeling)
 
 <b>Software:</b> C++, OpenGL, Visual Studio 2010
