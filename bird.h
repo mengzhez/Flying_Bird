@@ -24,6 +24,9 @@ public:
 		}
 	}
 
+	~Bird()
+	{}
+
 	// Draw Bird
 	void drawBird();
 

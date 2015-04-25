@@ -18,6 +18,9 @@ public:
 		_v = true;
 	}
 
+	~Torus()
+	{}
+
 	// Draw torus
 	void drawTorus();
 
